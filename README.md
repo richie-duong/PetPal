@@ -1,4 +1,4 @@
-PetPal – Pet Care Manager 🐾
+#PetPal – Pet Care Manager 🐾
 
 An all-in-one digital pet care management platform designed to help pet owners organize and monitor their pets’ daily care routines, health records, and appointments in one centralized application.
 
@@ -6,7 +6,7 @@ Originally developed as a final project for the CST8318 Graphics Technologies co
 
 Following the completion of the course project, both Richard and Andrew decided to continue developing PetPal independently as a collaborative full-stack web application project, expanding the original design concept into a fully functional platform.
 
-📌 Project Goals
+##📌 Project Goals
 
 PetPal aims to simplify pet ownership by providing tools to:
 
@@ -17,11 +17,12 @@ Store pet health records
 Monitor grooming and activity logs
 Support multiple pet profiles
 Provide an easy-to-use dashboard experience
-🎨 UI/UX Design Process
+
+##🎨 UI/UX Design Process
 
 The initial design and prototyping process was completed in Figma and followed a structured user-centered workflow:
 
-1. Low-Fidelity Wireframes
+###1. Low-Fidelity Wireframes
 
 Created low-fidelity wireframes to establish:
 
@@ -32,7 +33,7 @@ Content hierarchy
 
 This phase focused strictly on functionality and layout before visual styling.
 
-2. Design System
+###2. Design System
 
 Developed a reusable design system including:
 
@@ -44,7 +45,7 @@ Cards and input fields
 
 The design system ensured consistency across all screens and prototypes.
 
-3. High-Fidelity Wireframes
+###3. High-Fidelity Wireframes
 
 Transformed the wireframes into polished high-fidelity interfaces by:
 
@@ -53,7 +54,7 @@ Using responsive layouts
 Incorporating realistic content and imagery
 Building reusable UI components
 
-4. Interactive Prototype & Usability Testing
+###4. Interactive Prototype & Usability Testing
 
 Created an interactive prototype and conducted usability testing with external participants to:
 
@@ -64,7 +65,7 @@ Improve accessibility and user experience
 
 A usability report was then produced to summarize findings and recommendations.
 
-💻 Full-Stack Development (In Progress)
+##💻 Full-Stack Development (In Progress)
 
 PetPal is currently being expanded into a full-stack application using:
 
@@ -87,7 +88,7 @@ Richard Duong
 Andrew Tan
 🚧 Project Status
 
-In Progress – Currently transitioning from UI/UX prototype into a fully functional full-stack web application.
+##In Progress – Currently transitioning from UI/UX prototype into a fully functional full-stack web application.
 
 📚 Key Skills Demonstrated
 UI/UX Design
